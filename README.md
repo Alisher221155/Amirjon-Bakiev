@@ -1,0 +1,2 @@
+# Amirjon-Bakiev
+For function

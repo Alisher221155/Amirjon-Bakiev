@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 12345
 
 
+=======
+>>>>>>> 6ead078 (do changes for conflict)
 qwerty
